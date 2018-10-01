@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main.unity
+    guid: f2ad2288be91bad4a8f29824de8f0dc5
+  - enabled: 1
+    path: Assets/piano.unity
+    guid: 02a65ac2bfb04944994d164f0c9bcb59
